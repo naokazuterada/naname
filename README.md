@@ -5,7 +5,7 @@
 
 <iframe src="//slides.com/naokazuterada/naname/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-「ファイナルステージ」は時間の関係で省略しました。本当は、このステージまで行けるとプログラミングの凄さがわかると思ったのですが、どうしても時間が足りませんでした。
+「チャレンジステージ2」は時間の関係で省略しました。本当は、このステージまで行けるとプログラミングの凄さがわかると思ったのですが、どうしても時間が足りませんでした。
 
 ### 授業のレシピ
 
